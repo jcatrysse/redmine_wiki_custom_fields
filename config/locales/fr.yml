@@ -1,0 +1,7 @@
+fr:
+  wiki_custom_fields_plugin:
+    plugin_name: "Champs personnalisés Wiki"
+    plugin_description: "Ajoute des champs personnalisés aux pages wiki."
+  field_wiki_page_custom_field: "Champ personnalisé de page wiki"
+  label_wiki_page: "Page wiki"
+  label_wiki_page_plural: "Pages wiki"

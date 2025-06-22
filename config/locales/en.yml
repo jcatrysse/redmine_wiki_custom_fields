@@ -1,0 +1,7 @@
+en:
+  wiki_custom_fields_plugin:
+    plugin_name: "Wiki Custom Fields"
+    plugin_description: "Adds custom fields to wiki pages."
+  field_wiki_page_custom_field: "Wiki page custom field"
+  label_wiki_page: "Wiki page"
+  label_wiki_page_plural: "Wiki pages"

@@ -1,0 +1,7 @@
+de:
+  wiki_custom_fields_plugin:
+    plugin_name: "Wiki benutzerdefinierte Felder"
+    plugin_description: "Fügt Wiki-Seiten benutzerdefinierte Felder hinzu."
+  field_wiki_page_custom_field: "Wiki-Seite benutzerdefiniertes Feld"
+  label_wiki_page: "Wikiseit"
+  label_wiki_page_plural: "Wikiseiten"

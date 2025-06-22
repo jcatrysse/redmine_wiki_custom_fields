@@ -1,0 +1,7 @@
+nl:
+  wiki_custom_fields_plugin:
+    plugin_name: "Wiki Aangepaste Velden"
+    plugin_description: "Voegt aangepaste velden toe aan wiki-pagina's."
+  field_wiki_page_custom_field: "Aangepast wikivelden"
+  label_wiki_page: "Wiki pagina"
+  label_wiki_page_plural: "Wiki pagina's"
